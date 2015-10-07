@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button,ImgenView,textView</string>
+    <string name="boton1">Boton Imagen</string>
+    <string name="boton2">Boton Texto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
